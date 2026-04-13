@@ -40,7 +40,7 @@ public class LoginClass {
                 if (Character.isDigit(ch)){
                     hasNumber=true;
                 }
-                if (Character.isDigit(ch)){
+                if (!Character.isLetterOrDigit(ch)){
                     hasSpecial=true;
                 }
             }
