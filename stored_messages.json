@@ -1,0 +1,18 @@
+[
+  {
+    "messageText": "Yo bro come hang with ya boy",
+    "flag": "Stored",
+    "messageNumber": 1,
+    "sender": "+27634351703",
+    "recipient": "+27635221656",
+    "messageID": "1653377428"
+  },
+  {
+    "messageText": "Do you know where the milk is?",
+    "flag": "Sent",
+    "messageNumber": 2,
+    "sender": "+27634351703",
+    "recipient": "+27834351635",
+    "messageID": "5158159549"
+  }
+]
